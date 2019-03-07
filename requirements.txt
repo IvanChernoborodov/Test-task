@@ -1,0 +1,11 @@
+Django==2.0.0
+psycopg2>=2.7,<3.0
+psycopg2-binary
+djangorestframework
+markdown
+django-filter
+Celery>=4.2,<4.3
+Redis
+beautifulsoup4
+requests
+lxml
