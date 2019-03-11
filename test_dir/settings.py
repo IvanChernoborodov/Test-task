@@ -151,7 +151,7 @@ CELERY_RESULT_SERIALIZER = 'json'
 CELERY_BEAT_SCHEDULE = {
     'main_parse': {
         'task': 'API.tasks.main_parse',
-        'schedule': crontab(hour="*/1"),
+        'schedule': crontab(hour="*/8"),
         # 'schedule': 20.0,
 
     }
