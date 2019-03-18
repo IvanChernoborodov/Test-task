@@ -1,6 +1,6 @@
 # Test task
 
-Restful API application. This application parses Hacker News(https://news.ycombinator.com/) website and saves 30 posts (title, url, created)   each 1 hour.  
+Restful API application. This application parses Hacker News(https://news.ycombinator.com/) website and saves 30 posts (title, url, created)   each 8 hour.  
 Availiable methods: GET
 Urls:
 
