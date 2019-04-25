@@ -1,4 +1,5 @@
 # Test task
+You can check it on http://134.209.81.236:8000/posts/
 
 Restful API application. This application parses Hacker News(https://news.ycombinator.com/) website and saves 30 posts (title, url, created)   each 8 hour.  
 Availiable methods: GET
